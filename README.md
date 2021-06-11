@@ -10,13 +10,9 @@ My name is Damaris (Didi) is what I like to be called and I am a full-stack mobi
 - 💬 Ask me about full stack development, UI/UX, video games, movies and comics
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I covered a song named [Lament by Mamie Perry](https://www.youtube.com/results?search_query=lament+mamie+perry)
-<!-- Actual text -->
-- 📬 You can find me on [![Twitter][1.2]][1], or on [LinkedIn](https://www.linkedin.com/in/damaris-garcia/)
 
-<!-- Icons -->
+- 📬 You can find me on [Twitter](https://twitter.com/DamarisCodes)  or on [LinkedIn](https://www.linkedin.com/in/damaris-garcia/)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: https://twitter.com/DamarisCodes
 
 Languages
 - HTML
