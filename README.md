@@ -1,4 +1,4 @@
-### Greetings and Salutations 👋
+![Alt Text](https://media.giphy.com/media/CSrGvu5IjKjwkqZcGG/giphy-downsized.gif)
 
 
 My name is Damaris (Didi) is what I like to be called and I am a full-stack mobile and web developer with a passion for the user experience I plan on making the web a more streamlined place to explore. 
