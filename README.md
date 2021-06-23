@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/CSrGvu5IjKjwkqZcGG/giphy-downsized.gif)
+![Alt Text](https://media.giphy.com/media/cW14xtnSLJX37qBJAQ/giphy.gif)
 
 
 My name is Damaris (Didi) is what I like to be called and I am a full-stack mobile and web developer with a passion for the user experience I plan on making the web a more streamlined place to explore. 
@@ -33,3 +33,4 @@ Technology Resources
 - Figma
 - Postman
 
+![Didi's GitHub stats](https://github-readme-stats.vercel.app/api?username=didi-codes&theme=dark&show_icons=true)
