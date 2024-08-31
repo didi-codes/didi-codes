@@ -4,7 +4,7 @@
 My name is Damaris (Didi) is what I like to be called and I am a full-stack mobile and web developer with a passion for the user experience I plan on making the web a more streamlined place to explore. 
 
 - 🔭 I’m currently obtaining my computer science degree at full sail university.
-- 🌱 The company I work for is a small startup based out in california, our mission is to make EV afforable and accessible to all.
+- 🌱 I'd love to work for a company that has passion for user experience.
 - 👯 I collaborate and pair program daily with my fellow classmates.
 - 🤔 I’m learning systems programming!!
 - 💬 Ask me about full stack development, UI/UX, video games, movies and comics
