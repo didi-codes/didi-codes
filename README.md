@@ -3,7 +3,8 @@
 
 My name is Damaris (Didi) is what I like to be called and I am a full-stack mobile and web developer with a passion for the user experience I plan on making the web a more streamlined place to explore. 
 
-- 🔭 I’m currently obtaining my computer science degree at full sail university.
+- 🔭 I graduated from Full Sail University with my associates degree in computer science.
+- 🔭 I’m currently in completing my bachelors degree for computer science at Full Sail University.
 - 🌱 I'd love to work for a company that has passion for user experience.
 - 👯 I collaborate and pair program daily with my fellow classmates.
 - 🤔 I’m learning systems programming!!
